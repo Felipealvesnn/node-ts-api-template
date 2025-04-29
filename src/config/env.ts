@@ -1,0 +1,1 @@
+// Aqui poderia ficar variáveis de ambiente futuramente
